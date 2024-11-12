@@ -4,11 +4,11 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Dheerajjha451/TumorDetection
+   git clone https://github.com/Dheerajjha451/CancerDetection
 
 2. Navigate into the project directory:
     ```bash
-    cd TumorDetection
+    cd CancerDetection
     
 3. Install the required dependencies:
 
